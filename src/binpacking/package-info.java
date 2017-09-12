@@ -1,0 +1,8 @@
+/**
+ *
+ */
+/**
+ * @author Agathe
+ *
+ */
+package binpacking;
